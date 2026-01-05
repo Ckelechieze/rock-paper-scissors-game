@@ -1,4 +1,4 @@
-# Rock Paper Scissors Game
+# Rock Paper Scissors Game .
 
 A simple Rock Paper Scissors game built with HTML, CSS, and JavaScript.
 
@@ -29,4 +29,5 @@ A simple Rock Paper Scissors game built with HTML, CSS, and JavaScript.
 - Event listeners
 - Functions and game logic
 - Conditional statements
+
 
